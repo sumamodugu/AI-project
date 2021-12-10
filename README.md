@@ -20,5 +20,5 @@ FER - 2013 : https://www.kaggle.com/msambare/fer2013
 2. Created Emoji.py and the developed Webapp using Tkinter.
 
 # Project Created by:
-suma modugu
+suma modugu, and 
 joseph pavan koushik reddy thumma
